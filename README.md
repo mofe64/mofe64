@@ -13,6 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Into the Compose-Verse: A Beginners Guide To Jetpack Compose:  Composables and Modifiers.](https://strawhatdeveloper.hashnode.dev/into-the-compose-verse-a-beginners-guide-to-jetpack-compose-composables-and-modifiers)
+- [Into the Compose-Verse, A beginner guide to Android Development With Jetpack Compose: The Very Basics](https://strawhatdeveloper.hashnode.dev/into-the-compose-verse-a-beginner-guide-to-android-development-with-jetpack-compose-the-very-basics)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
