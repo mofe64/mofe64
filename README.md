@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mofe_iv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mofe_iv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eyimofe ogunbiyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyimofe ogunbiyi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eyimofe-ogunbiyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyimofe ogunbiyi" height="30" width="40" /></a>
 <a href="https://instagram.com/mofe_iv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mofe_iv" height="30" width="40" /></a>
 <a href="https://hashnode.com/@mofe_iv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mofe_iv" height="30" width="40" /></a>
 <a href="/https://strawhatdeveloper.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://strawhatdeveloper.hashnode.dev/rss.xml" height="30" width="40" /></a>
