@@ -14,7 +14,7 @@
 
 ### Music (cause why not)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xj6zjsjjocj6tek646ccbgqj24)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xj6zjsjjocj6tek646ccbgqj24&unique={true|1|on|yes})
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mofe_iv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mofe_iv" height="30" width="40" /></a>
