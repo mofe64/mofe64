@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I'm Eyimofe Ogunbiyi</h3>
-<h3 align="left">A Software Engineer from Lagos Nigeria</h3>
+<h3 align="left">A Software Engineer based in London</h3>
 
 ### Some Info
 -  Currently exploring and building robots; check out [Orion](https://github.com/mofe64/orion)
