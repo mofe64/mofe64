@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Keeping Confidential Information out of AI Agent Responses](https://strawhatengineer.com/strawhat/AI/Four+Layers+of+Defence+-+Keeping+Confidential+Data+Out+of+AI+Agent+Responses)
 - [Implementing Lazy Tool Loading for AI Agents.](https://strawhatengineer.com/strawhat/AI/Implementing+Lazy+Tool+Loading+for+AI+Agents)
-- etc. [Read the rest] (https://strawhatengineer.com)
+- etc. [Read the rest](https://strawhatengineer.com)
 <!-- BLOG-POST-LIST:END -->
 
 ### Music (cause why not)
