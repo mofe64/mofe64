@@ -2,7 +2,7 @@
 <h3 align="left">A Software Engineer from Lagos Nigeria</h3>
 
 ### Some Info
--  Currently working on building robots; check out [Orion](https://github.com/mofe64/orion)
+-  Currently exploring and building robots; check out [Orion](https://github.com/mofe64/orion)
 
 <!-- - I regularly write articles on [https://strawhatdeveloper.hashnode.dev/](https://strawhatdeveloper.hashnode.dev/) -->
 
