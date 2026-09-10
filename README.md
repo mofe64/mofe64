@@ -2,14 +2,14 @@
 <h3 align="left">A Software Engineer from Lagos Nigeria</h3>
 
 ### Some Info
--  Currently working on [Imani](https://imani.onijekuje.com/)
+-  Currently working on building robots; check out [Orion](https://github.com/mofe64/orion)
 
 <!-- - I regularly write articles on [https://strawhatdeveloper.hashnode.dev/](https://strawhatdeveloper.hashnode.dev/) -->
 
 ### Some stuff I've written
 <!-- BLOG-POST-LIST:START -->
-- [Into the Compose-Verse: A Beginners Guide To Jetpack Compose: State Management](https://strawhatdeveloper.hashnode.dev/into-the-compose-verse-a-beginners-guide-to-jetpack-compose-state-management)
-- [Into the Compose-Verse: A Beginners Guide To Jetpack Compose:  Composables and Modifiers.](https://strawhatdeveloper.hashnode.dev/into-the-compose-verse-a-beginners-guide-to-jetpack-compose-composables-and-modifiers)
+- [Keeping Confidential Information out of AI Agent Responses](https://strawhatengineer.com/strawhat/AI/Four+Layers+of+Defence+-+Keeping+Confidential+Data+Out+of+AI+Agent+Responses)
+- [Implementing Lazy Tool Loading for AI Agents.](https://strawhatengineer.com/strawhat/AI/Implementing+Lazy+Tool+Loading+for+AI+Agents)
 <!-- BLOG-POST-LIST:END -->
 
 ### Music (cause why not)
